@@ -1,0 +1,14 @@
+name: XXX
+category: OSINT
+value: 500  # placeholder – ignored when type: dynamic
+
+# Dynamic scoring – **do not modify these numbers**
+type: dynamic
+extra:
+  initial: 500
+  decay: 100
+  minimum: 50
+
+# Docker‑compose deployment
+image: __compose__
+connection_info: https://<subdomain>.ctf.bsidesredrocks.org
