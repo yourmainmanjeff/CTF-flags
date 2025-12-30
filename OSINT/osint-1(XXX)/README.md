@@ -1,8 +1,10 @@
+its called WaterHot
+
 You are an intern at the new BENU CTF company, and there is an unkown user going around and leaking flags! the main cyber team are working on reverse engineering and they decide to give you a single photo from the case for you to work on. find out who this leaker 
 is and where he is so we can stop him from leaking any more flags!
 
 the flag format is:
-FLAG{facebook description-Resturaunt name-Username-Password} MAKE SURE TO PUT IT IN ALL CAPS
+FLAG{facebook description-Resturaunt name-Username-Password} MAKE SURE TO PUT IT IN ALL CAPS AND USE THE DASHES
 
 FLAG{XXXXXXXX-XXXXXXXX-XXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXX}
 
