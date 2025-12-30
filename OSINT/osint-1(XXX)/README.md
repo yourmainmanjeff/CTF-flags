@@ -16,4 +16,4 @@ the corrdinates will have the location of the resturaunt and the name.
 the username will lead to a facebook profile with the bio, and the facebook will expose whats been happening, it will also lead to his github page, where he has a accidentely public repository with his passwords.
 
 
-the flag is FLAG{GJDK564-XXXX-SSPSYCHS2E3-IFUCANREADTHISURDUM56!}
+the flag is FLAG{GJDK564-AQUAFIRE-SSPSYCHS2E3-IFUCANREADTHISURDUM56!}
